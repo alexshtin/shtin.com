@@ -1,5 +1,5 @@
 ## Welcome to shtin.com
 
-It is not quite ready yet.
+My github: https://github.com/alexshtin/.
 
-Please check [Temporal](https://temporal.io) instead.
+I am currently with [Temporal](https://temporal.io).
